@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #eee;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: .5rem;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0,.6);
+    margin: .5rem;
+}
+
+main .container .heading{
+    font-size: 2rem;
+    text-transform: capitalize;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+}
+
+main .container .num{
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+    border: none;
+    background: none;
+}
+
+main .container .btns{
+    margin: 1rem 0;
+}
+
+main .container .btns .btn{
+    color: #fff;
+    background-color: #333;
+    padding: .7rem 1.4rem;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: .5rem;
+    text-transform: capitalize;
+    margin-top: 1rem;
+}
+
+main .container .btns .btn:hover{
+    background-color: rgb(20, 20, 20);
+}
+
+main .container label{
+    font-size: 1.4rem;
+    text-transform: capitalize;
+}
+
+main .container input{
+    background-color: #eee;
+    border: none;
+    font-size: 1rem;
+    border-radius: .5rem;
+    padding: .7rem 1.2rem;
+    outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
